@@ -1,6 +1,7 @@
 # Exploration and Classification of the 2017 European Red List of Endangered Species
 
 Author: Holly Bok 
+Project created in the span of 8 hours for the 2020 General Assembly Hackathon
 
 ## Problem Statement
 
